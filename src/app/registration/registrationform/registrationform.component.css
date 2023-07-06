@@ -1,0 +1,9 @@
+.bin{
+    margin: auto 2px;
+    width: auto;
+    height: 800px;
+    background-color: orange;
+}
+.position{
+    position: center;
+}
